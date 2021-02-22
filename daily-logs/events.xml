@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
+
+<day>22-02-2020
 <events>
   <event date="2020-02-22">
     <action type="created">
@@ -26,3 +28,4 @@
     </references>
   </event>
 </events>
+</day>

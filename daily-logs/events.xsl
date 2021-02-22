@@ -15,6 +15,12 @@
       </body>
     </html>
   </xsl:template>
+  
+  <xsl:template match="day">
+    <ul class="with-top-margin">
+      <xsl:apply-templates select="events"/>
+    </ul>
+  </xsl:template>
 
   <xsl:template match="events">
     <ul class="with-top-margin">
