@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
-  <event date="2015-06-23">
-    <action type="trying">
-      My new daily activity log
+  <event date="2020-02-22">
+    <action type="created">
+      Created my new daily activity set up
     </action>
     <references>
       <reference src="https://github.com/sreyasvm/dailylogs" type="source" />
+    </references>
+  </event>
+<event date="2020-02-22">
+    <action type="created">
+      Recreated pipline instances in FS
+    </action>
+    <references>
+      <reference src="" type="source" />
+    </references>
+  </event>
+  <event date="2020-02-22">
+    <action type="created">
+      Tested workaround for account modelling
+    </action>
+    <references>
+      <reference src="" type="source" />
     </references>
   </event>
 </events>
