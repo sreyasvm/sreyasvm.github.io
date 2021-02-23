@@ -1,32 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to my daily logs page
 
 You can use the [editor on GitHub](https://github.com/sreyasvm/sreyasvm.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 
 
-### Markdown
+##### 22-02-2021
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I started with my first github page. I guess it is a craeted idea to capture how my day went. 
 
-```markdown
-Syntax highlighted code block
+Spent time on my daily work (Those works are captured in my official git devlogs)
 
-# Header 1
-## Header 2
-### Header 3
+Spent time on Java training
 
-- Bulleted
-- List
+Resources/important points will be captured in this [repo](https://github.com/sreyasvm/java/tree/main/java_fundamentals)
 
-1. Numbered
-2. List
+##### 23-02-2021
 
-**Bold** and _Italic_ and `Code` text
+Started using default github page and theme. Looks cool 
 
-[Link](url) and ![Image](src)
-```
+As usual spent time on my daily work (Those works are captured in my official git devlogs)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Jekyll Themes
 
