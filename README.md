@@ -1,6 +1,6 @@
 ## Welcome to my daily logs page
 
-You can use the [editor on GitHub](https://github.com/sreyasvm/sreyasvm.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/sreyasvm/sreyasvm.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files. Here goes my github [page](https://sreyasvm.github.io/)
 
 ### 
 
