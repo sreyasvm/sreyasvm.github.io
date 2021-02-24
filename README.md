@@ -15,11 +15,15 @@ Resources/important points will be captured in this [repo](https://github.com/sr
 
 ##### 23-02-2021
 
+Had my German language training
+
 Started using default github page and theme. Looks cool 
 
 As usual spent time on my daily work (Those works are captured in my official git devlogs)
 
 Spent time on Java course 
+
+Practised German language in Duolingo
 
 ##### 24-02-2021
 
@@ -28,6 +32,8 @@ Office related works
 Involved in setting up a pipeline (More details in my official page)
 
 Started Spring Path on Plural Sight. Learnings will be captured in this [repo](https://github.com/sreyasvm/spring/tree/main/spring-fundamentals)
+
+Practised German language in Duolingo
 
 
 ### Jekyll Themes
