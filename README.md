@@ -35,6 +35,14 @@ Started Spring Path on Plural Sight. Learnings will be captured in this [repo](h
 
 Practised German language in Duolingo
 
+##### 25-02-2021
+
+Office related works , Pipeline set up for new repo
+
+Started Spring Path on Plural Sight. Learnings will be captured in this [repo](https://github.com/sreyasvm/spring/tree/main/spring-fundamentals)
+
+Practised German language in Duolingo
+
 
 ### Jekyll Themes
 
