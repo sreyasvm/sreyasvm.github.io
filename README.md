@@ -48,6 +48,11 @@ Practised German language in Duolingo
 Office related works.
 
 
+##### 04-04-2021
+
+Data Structures and algorithms on Oreily. Learnings captured in this [repo](https://github.com/sreyasvm/computerscience/edit/main/datastructures-and-algorithm/dsa.md)
+
+
 
 ### Jekyll Themes
 
